@@ -21,12 +21,14 @@ Implementation of Admin Module :
 •	Also, the admin can let an occupant vacate by clicking on “Delete”
 
 Implementation of Occupant Module :
+
 •	Once the system occupant logins, he’ll be asked to give his block number and flat number.
 •	If the entered flat number and block number is correct then the payment portal will be opened.
 •	Then the occupant will be asked to select the payment option to proceed further.
 •	The payment will be successful when the occupant clicks the “Click To Pay” button.
 
 Implementation of New User Module :
+
 •	The new user will be able to either login and see the flat details or book a house if he already has an account.
 •	If he doesn’t have the account, he will be able to create a new account
 •	He can view the details of the flat details, along with BHK type and price of each house depending on the type of BHK
@@ -41,11 +43,10 @@ Implementation of New User Module :
 
 DATA STRUCTURES USED 
 
-1.	Dictionary
+1.	Dictionary -
 We have used dictionary to store details of flat, occupants, etc. in the form of a json file.
  
-
-2.	Stack
+2.	Stack -
 •	We have used stack to implement opening of windows in a easier way of just pressing the “Go back” button
 
    
