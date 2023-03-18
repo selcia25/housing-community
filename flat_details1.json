@@ -1,0 +1,272 @@
+{
+    "F101": 
+        {
+            "BHK": "2 BHK", 
+            "Occupancy": "Occupied", 
+            "Price": 2000000, 
+            "Name": "John", 
+            "PhoneNumber": 9876154321, 
+            "AaadhaarNumber": 3122215002097
+        }, 
+    "F102": 
+        {
+            "BHK": "2 BHK", 
+            "Occupancy": "Occupied", 
+            "Price": 2000000, 
+            "Name": "Selcia", 
+            "PhoneNumber": 9876543874, 
+            "AaadhaarNumber": 3122215002098
+        }, 
+    "F103": 
+        {
+            "BHK": "2 BHK", 
+            "Occupancy": "Occupied", 
+            "Price": 2000000, 
+            "Name": "Shashwat", 
+            "PhoneNumber": 9874654374, 
+            "AaadhaarNumber": 3122215002098
+        }, 
+    "F104": 
+        {
+            "BHK": "2 BHK", 
+            "Occupancy": "Occupied", 
+            "Price": 2000000, 
+            "Name": "Shasvat", 
+            "PhoneNumber": 9876454369, 
+            "AaadhaarNumber": 3122215002099
+        }, 
+    "F105": 
+        {
+            "BHK": "2 BHK", 
+            "Occupancy": "Occupied", 
+            "Price": 2000000, 
+            "Name": "Sherwin", 
+            "PhoneNumber": 9876548345, 
+            "AaadhaarNumber": 3122215002100
+        }, 
+    "F106": 
+        {
+            "BHK": "2 BHK", 
+            "Occupancy": "Available", 
+            "Price": 2000000,
+            "Name": " ", 
+            "PhoneNumber": " ", 
+            "AaadhaarNumber":" "
+        }, 
+    "F107": 
+        {
+            "BHK": "2 BHK", 
+            "Occupancy": "Occupied", 
+            "Price": 2000000, 
+            "Name": "Shrikar", 
+            "PhoneNumber": 9876454751, 
+            "AaadhaarNumber": 3122215002101
+        }, 
+    "F108": 
+        {
+            "BHK": "2 BHK", 
+            "Occupancy": "Available", 
+            "Price": 2000000,
+            "Name":" ",
+            "PhoneNumber":" ",
+            "AaadhaarNumber":" "
+        }, 
+    "F109": 
+        {
+            "BHK": "2 BHK", 
+            "Occupancy": "Occupied", 
+            "Price": 2000000, 
+            "Name": "Mary", 
+            "PhoneNumber": 9876544251, 
+            "AaadhaarNumber": 3122215002102
+        }, 
+    "F110": 
+        {
+            "BHK": "2 BHK", 
+            "Occupancy": "Available", 
+            "Price": 2000000,
+            "Name":"",
+            "PhoneNumber":"",
+            "AaadhaarNumber":""
+        }, 
+    "F201": 
+        {
+            "BHK": "2 BHK", 
+            "Occupancy": "Available", 
+            "Price": 2000000,
+            "Name":" ",
+            "PhoneNumber":" ",
+            "AaadhaarNumber":" "
+        }, 
+    "F202": 
+        {
+            "BHK": "2 BHK", 
+            "Occupancy": "Available", 
+            "Price": 2000000,
+            "Name":" ",
+            "PhoneNumber":" ",
+            "AaadhaarNumber":" "
+        }, 
+    "F203": 
+        {
+            "BHK": "2 BHK", 
+            "Occupancy": "Occupied", 
+            "Price": 2000000, 
+            "Name": "Joseph", 
+            "PhoneNumber": 9876547257, 
+            "AaadhaarNumber": 3122215002103
+        }, 
+    "F204": 
+        {
+            "BHK": "2 BHK", 
+            "Occupancy": "Available", 
+            "Price": 2000000,
+            "Name":" ",
+            "PhoneNumber":" ",
+            "AaadhaarNumber":" "
+        }, 
+    "F205": 
+        {
+            "BHK": "2 BHK",
+            "Occupancy": "Available", 
+            "Price": 2000000,
+            "Name":" ",
+            "PhoneNumber":" ",
+            "AaadhaarNumber":" "
+        }, 
+    "F206": 
+        {
+            "BHK": "2 BHK", 
+            "Occupancy": "Occupied", 
+            "Price": 2000000, 
+            "Name": "Jebi", 
+            "PhoneNumber": 9817654894, 
+            "AaadhaarNumber": 3122215002104
+        }, 
+    "F207": 
+        {
+            "BHK": "2 BHK", 
+            "Occupancy": "Available", 
+            "Price": 2000000,
+            "Name":" ",
+            "PhoneNumber":" ",
+            "AaadhaarNumber":" "
+        }, 
+    "F208": 
+        {
+            "BHK": "2 BHK", 
+            "Occupancy": "Available", 
+            "Price": 2000000,
+            "Name":" ",
+            "PhoneNumber":" ",
+            "AaadhaarNumber":" "
+        }, 
+    "F209": 
+        {
+            "BHK": "2 BHK", 
+            "Occupancy": "Available", 
+            "Price": 2000000,
+            "Name":" ",
+            "PhoneNumber":" ",
+            "AaadhaarNumber":" "
+        }, 
+    "F210": 
+        {
+            "BHK": "2 BHK", 
+            "Occupancy": "Available", 
+            "Price": 2000000,
+            "Name":" ",
+            "PhoneNumber":" ",
+            "AaadhaarNumber":" "
+        }, 
+    "F301": 
+        {
+            "BHK": "3 BHK", 
+            "Occupancy": "Occupied", 
+            "Price": 4000000, 
+            "Name": "Antony", 
+            "PhoneNumber": 9876548712,
+            "AaadhaarNumber": 3122215002105
+        }, 
+    "F302": 
+        {
+            "BHK": "3 BHK", 
+            "Occupancy": "Occupied", 
+            "Price": 4000000, 
+            "Name": "Teresa", 
+            "PhoneNumber": 9876541214, 
+            "AaadhaarNumber": 3122215002106
+        }, 
+    "F303": 
+        {
+            "BHK": "3 BHK", 
+            "Occupancy": "Available", 
+            "Price": 4000000,
+            "Name":" ",
+            "PhoneNumber":" ",
+            "AaadhaarNumber":" "
+        }, 
+    "F304": 
+        {
+            "BHK": "3 BHK", 
+            "Occupancy": "Occupied", 
+            "Price": 4000000, 
+            "Name": "Peter", 
+            "PhoneNumber": 9812054894, 
+            "AaadhaarNumber": 3122215002107
+        }, 
+    "F305": 
+        {
+            "BHK": "3 BHK", 
+            "Occupancy": "Available", 
+            "Price": 4000000,
+            "Name":" ",
+            "PhoneNumber":" ",
+            "AaadhaarNumber":" "
+        }, 
+    "F306": 
+        {
+            "BHK": "3 BHK", 
+            "Occupancy": "Occupied", 
+            "Price": 4000000, 
+            "Name": "Hello", 
+            "PhoneNumber": "9185476214", 
+            "AaadhaarNumber": "3122215002789"
+        }, 
+    "F307": 
+        {
+            "BHK": "3 BHK", 
+            "Occupancy": "Occupied", 
+            "Price": 4000000, 
+            "Name": "Pio", 
+            "PhoneNumber": 9876512394, 
+            "AaadhaarNumber": 3122215002109
+        }, 
+    "F308": 
+        {
+            "BHK": "3 BHK", 
+            "Occupancy": "Available", 
+            "Price": 4000000,
+            "Name":" ",
+            "PhoneNumber":" ",
+            "AaadhaarNumber":" "
+        }, 
+    "F309": 
+        {
+            "BHK": "3 BHK", 
+            "Occupancy": "Available", 
+            "Price": 4000000,
+            "Name":" ",
+            "PhoneNumber":" ",
+            "AaadhaarNumber":" "
+        }, 
+    "F310": 
+        {
+            "BHK": "3 BHK", 
+            "Occupancy": "Available", 
+            "Price": 4000000,
+            "Name":" ",
+            "PhoneNumber":" ",
+            "AaadhaarNumber":" "
+        }
+    }
