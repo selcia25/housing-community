@@ -33,7 +33,6 @@ Implementation of New User Module :
 •	If he doesn’t have the account, he will be able to create a new account
 •	He can view the details of the flat details, along with BHK type and price of each house depending on the type of BHK
 •	Thus, the system can generate a block wise list of flat details which will make it easy for the occupant to book a flat.
-
 •	With Python as a backend and Tkinter as the frontend this module was developed.
 •	First, we validate the new user’s login and allow the new user to view the flat details in order to book a house
 •	If he doesn’t have an account, he’ll be asked to create an account based on the rules displayed on the screen 
